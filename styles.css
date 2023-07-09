@@ -637,6 +637,25 @@ body, html  {
         width: 400px;
     }
 }
+@media screen and (max-width: 400px) {
+    .kartichka {
+        height: 400px;
+    }
+
+    .kartichka h1 {
+        font-size: 1.2rem;
+    }
+
+    .karta {
+        width: 400px;
+    }
+    .karta2 {
+        width: 400px;
+    }
+    .karta3 {
+        width: 400px;
+    }
+}
 
 .footer-cont {
     background-color: #0a0711;
