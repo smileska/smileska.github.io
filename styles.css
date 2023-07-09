@@ -648,12 +648,15 @@ body, html  {
 
     .karta {
         width: 400px;
+        margin: auto;
     }
     .karta2 {
         width: 400px;
+        margin: auto;
     }
     .karta3 {
         width: 400px;
+        margin: auto;
     }
 }
 
